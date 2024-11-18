@@ -10,6 +10,8 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 
+# 11월 19일 8시 43분 민우
+
 from pathlib import Path
 
 
