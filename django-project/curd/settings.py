@@ -12,6 +12,10 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 # 11월 19월 8시 41분 민우
 
 
+# 11월 19일 8시 43분 민우
+# 11월 19일 9시 32분 민우
+
+
 from pathlib import Path
 
 
